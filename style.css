@@ -1,0 +1,39 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+
+}
+
+body
+{
+    background-size: cover;
+}
+
+.modal-dialog
+{
+    width:100%;
+}
+
+.instructions_for_game
+{
+    display: inline-block;
+    width: 40%;
+}
+
+.copy_right_footer
+{
+    bottom:0;
+    position: fixed;
+    background-color: grey;
+    width: 100%;
+    text-align: center;
+    color: white;
+    line-height: 3;
+}
+
+canvas
+{
+    border: 3px solid white;
+
+}
